@@ -30,7 +30,7 @@
 
 const HDWalletProvider = require('truffle-hdwallet-provider');
 const infuraKey = ""
-const mnemonic = "below domain cattle similar tongue inmate report spatial hero kit special sister"
+const mnemonic = "<REMOVED FOR MY OWN SAKE :)>"
 
 module.exports = {
   /**

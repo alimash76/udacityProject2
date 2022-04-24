@@ -1,7 +1,6 @@
 {
   "name": "nd1309-p2-decentralized-star-notary-service-starter-code",
   "version": "1.0.0",
-  "description": "",
   "main": "truffle-config.js",
   "directories": {
     "test": "test"
@@ -21,8 +20,11 @@
   },
   "homepage": "https://github.com/littbarskiadeh/starNotary#readme",
   "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.7",
+    "dotenv": "^14.3.2",
     "openzeppelin-solidity": "^2.3.0",
-    "truffle-hdwallet-provider": "^1.0.17",
-    "dotenv": "^14.3.2"
-  }
+    "web3": "^1.7.3"
+  },
+  "devDependencies": {},
+  "description": ""
 }

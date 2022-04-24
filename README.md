@@ -15,19 +15,18 @@
 4) Your Token Address on the Rinkeby Network
 https://rinkeby.etherscan.io/tx/0xb9121721ed1ec066637ba21877d8448540db21cdda2ed0339a9c0d12992185f1
 
-Deploying 'StarNotary'
-----------------------
-transaction hash:    0xb9121721ed1ec066637ba21877d8448540db21cdda2ed0339a9c0d12992185f1
-Blocks: 2            Seconds: 28
-contract address:    0xc184923B7DAFdcca7A83B14D30d583EFeb340e41
-block number:        10559740
-block timestamp:     1650797637
-account:             0x77B7e4a4F669D58C50c0A47df871F812a2f620e6
-balance:             0.173564824995590462
-gas used:            2318735 (0x23618f)
-gas price:           10 gwei
-value sent:          0 ETH
-total cost:          0.02318735 ETH
+Deploying 'StarNotary'<br />
+transaction hash:    0xb9121721ed1ec066637ba21877d8448540db21cdda2ed0339a9c0d12992185f1<br />
+Blocks: 2            Seconds: 28<br />
+contract address:    0xc184923B7DAFdcca7A83B14D30d583EFeb340e41<br />
+block number:        10559740<br />
+block timestamp:     1650797637<br />
+account:             0x77B7e4a4F669D58C50c0A47df871F812a2f620e6<br />
+balance:             0.173564824995590462<br />
+gas used:            2318735 (0x23618f)<br />
+gas price:           10 gwei<br />
+value sent:          0 ETH<br />
+total cost:          0.02318735 ETH<br />
 
 
 Saving migration to chain.
